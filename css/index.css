@@ -229,12 +229,12 @@ footer {
     .menu a {
         display: flex;
         justify-content: center;
-        border-top: 1px solid black;
+        border-top: 1px solid lightgray;
         width: 100%;
         padding: 1em;
     }
     .menu a:last-child {
-        border-bottom: 1px solid black;
+        border-bottom: 1px solid lightgray;
     }
     .spacingTop {
         display: none;
